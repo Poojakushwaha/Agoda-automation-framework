@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="spark-config.xsd">
+    <configuration>
+        <theme>dark</theme>
+        <documentTitle>Automation Report</documentTitle>
+        <reportName>Cucumber Execution Report</reportName>
+    </configuration>
+</extentreports>
