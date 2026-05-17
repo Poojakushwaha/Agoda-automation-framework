@@ -1,3 +1,4 @@
+@EndToEnd
 Feature:Book a flight for passenger
 Scenario:Book a cheapest flight in Agoda platform successfully
 
